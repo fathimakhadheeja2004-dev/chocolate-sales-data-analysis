@@ -191,4 +191,4 @@ Chocolate_Sales_Portfolio/
 This project demonstrates a complete data analytics lifecycle, combining data cleaning, analysis, validation, and visualization across multiple tools.
 It reflects real-world analytical thinking and practical problem-solving skills suitable for a Junior Data Analyst / Data Analyst role.
 
-
+https://github.com/fathimakhadheeja2004-dev/chocolate-sales-data-analysis/blob/main/README.md
