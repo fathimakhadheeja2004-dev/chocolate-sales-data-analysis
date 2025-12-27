@@ -161,22 +161,20 @@ Microsoft Excel (Pivot Tables)
 
 Power BI (Dashboards & KPIs)
 
-Project Structure
+##Project Structure
 Chocolate_Sales_Portfolio/
 
  data/
     raw_chocolate_sales.xlsx
     chocolate_sales_cleaned.xlsx
-    chocolate_sales_final.csv
+  
 
  python/
    data_cleaning.py
-   analysis.py
    charts_screenshots/
  
   sql/
-   queries.sql
-   sql_output_screenshots/
+   sql_output_screenshots_with_quaries/
 
  excel/
     pivot_tables_screenshots/
