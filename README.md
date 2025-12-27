@@ -166,6 +166,7 @@ Chocolate_Sales_Portfolio/
 
  data/
     raw_chocolate_sales.xlsx
+    
     chocolate_sales_cleaned.xlsx
   
 
